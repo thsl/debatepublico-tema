@@ -383,23 +383,27 @@
     </div>
 </div>
 <?php get_template_part('mini-tutorial'); ?>
-<div class="container">
-	<div class="row text-center pt-md mb-md">
-		<h4 class="red font-roboto"> <strong>Realização</strong></h4>
-	</div>
-	<div class="row text-center">
-		<div class="col-sm-5 col-md-offset-1">
-			<p>Secretaria Nacional de Justiça/MJ</p>
-			<p>Secretaria de Assuntos Legislativos/MJ</p>
-			<p>Controladoria-Geral da União</p>
-		</div>
-		<div class="col-sm-5 divider-left">
-			<p>Conselho Federal da Ordem dos Advogados do Brasil</p>
-			<p>Conselho Nacional de Justiça</p>
-			<p>Advocacia-Geral da União</p>
-			<p>Conselho Nacional do Ministério Público</p>
-		</div>
-	</div>
+<div class="container mt-lg">
+    <div class="well well-sm">
+        <div class="row text-center">
+            <div class="col-lg-12">
+                <h4 class="red font-roboto divider-bottom"> <strong>Realização</strong></h4>
+            </div>
+        </div>
+        <div class="row text-center mt-sm">
+            <div class="col-sm-6">
+                <p>Secretaria Nacional de Justiça/MJ</p>
+                <p>Secretaria de Assuntos Legislativos/MJ</p>
+                <p>Controladoria-Geral da União</p>
+            </div>
+            <div class="col-sm-6">
+                <p>Conselho Federal da Ordem dos Advogados do Brasil</p>
+                <p>Conselho Nacional de Justiça</p>
+                <p>Advocacia-Geral da União</p>
+                <p>Conselho Nacional do Ministério Público</p>
+            </div>
+        </div>
+    </div>
 </div>
 <div class="back-to-top">
     <a href="#" class="white"><i class="fa fa-level-up"></i> Voltar para o topo</a>
